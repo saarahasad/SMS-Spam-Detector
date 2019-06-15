@@ -1,4 +1,3 @@
-# Chapter-18-Sentiment-Analysis-of-Restaurant-Review
 
 
 # Jupyter Notebook
